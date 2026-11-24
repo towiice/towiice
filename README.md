@@ -5,6 +5,7 @@ Based in Brazil · Exploring Windows internals, GPU testing (DirectX 12 & Vulkan
 ### What I'm working on
 - **[ivall/xcl](https://github.com/ivall/xcl)** — Testing and reviewing Xbox Series → Windows compatibility layer PRs on NVIDIA Turing (`GTX 1650 SUPER`, wave32, DXC / D3D12 SM 6.6).
 - **[queijo-mineiro](https://github.com/towiice/queijo-mineiro)** — Minecraft Fabric (1.21.4+) mod featuring traditional Minas Gerais cheese, cassava starch, and *pão de queijo*.
+- **[Wireless-Device-Battery-Monitor](https://github.com/towiice/Wireless-Device-Battery-Monitor)** — Lightweight Windows 10/11 taskbar tray app to monitor battery levels of wireless mice, headsets, keyboards, and controllers without vendor software.
 
 ### Tools & Environment
 - **Languages:** Python · Rust · C++
