@@ -1,6 +1,6 @@
-# Hi, I'm towiice 👋
+# Hi, I'm towiice 
 
-🇧🇷 Based in Brazil · Exploring Windows internals, GPU testing (DirectX 12 & Vulkan), and game modding.
+Based in Brazil · Exploring Windows internals, GPU testing (DirectX 12 & Vulkan), and game modding.
 
 ### What I'm working on
 - **[ivall/xcl](https://github.com/ivall/xcl)** — Testing and reviewing Xbox Series → Windows compatibility layer PRs on NVIDIA Turing (`GTX 1650 SUPER`, wave32, DXC / D3D12 SM 6.6).
