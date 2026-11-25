@@ -1,6 +1,6 @@
 # Hi, I'm towiice
 
-I'm from Brazil. Here are my projects.
+Here are my projects.
 
 ## Projects
 
