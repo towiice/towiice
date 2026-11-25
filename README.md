@@ -1,13 +1,8 @@
-# Hi, I'm towiice 
+# Oi, eu sou towiice
 
-Based in Brazil · Exploring Windows internals, GPU testing (DirectX 12 & Vulkan), and game modding.
+Sou do Brasil. Aqui ficam os meus projetos.
 
-### What I'm working on
-- **[ivall/xcl](https://github.com/ivall/xcl)** — Testing and reviewing Xbox Series → Windows compatibility layer PRs on NVIDIA Turing (`GTX 1650 SUPER`, wave32, DXC / D3D12 SM 6.6).
-- **[queijo-mineiro](https://github.com/towiice/queijo-mineiro)** — Minecraft Fabric (1.21.4+) mod featuring traditional Minas Gerais cheese, cassava starch, and *pão de queijo*.
-- **[Wireless-Device-Battery-Monitor](https://github.com/towiice/Wireless-Device-Battery-Monitor)** — Lightweight Windows 10/11 taskbar tray app to monitor battery levels of wireless mice, headsets, keyboards, and controllers without vendor software.
+## Projetos
 
-### Tools & Environment
-- **Languages:** Python · Rust · C++
-- **Graphics & Testing:** DirectX 12 (DXC / SM 6.6) · Vulkan · `llvm-mingw` · `cargo` / `CMake`
-- **Test Bench:** Windows 11 x64 · NVIDIA GeForce GTX 1650 SUPER (Turing / TU116)
+- **[Queijo Mineiro](https://github.com/towiice/queijo-mineiro)**: mod de Minecraft (Fabric) sobre a produção do queijo minas e do pão de queijo.
+- **[Wireless Battery](https://github.com/towiice/Wireless-Device-Battery-Monitor)**: meu fork do [projeto de krisgfx9](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor), que mostra a bateria de periféricos sem fio na barra de tarefas. No fork, adicionei suporte a dongles 2.4 GHz da família qmk.top e ao mouse Smailwolf RS7, e corrigi fones Bluetooth.
