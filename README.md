@@ -1,8 +1,8 @@
-# Oi, eu sou towiice
+# Hi, I'm towiice
 
-Sou do Brasil. Aqui ficam os meus projetos.
+I'm from Brazil. Here are my projects.
 
-## Projetos
+## Projects
 
-- **[Queijo Mineiro](https://github.com/towiice/queijo-mineiro)**: mod de Minecraft (Fabric) sobre a produção do queijo minas e do pão de queijo.
-- **[Wireless Battery](https://github.com/towiice/Wireless-Device-Battery-Monitor)**: meu fork do [projeto de krisgfx9](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor), que mostra a bateria de periféricos sem fio na barra de tarefas. No fork, adicionei suporte a dongles 2.4 GHz da família qmk.top e ao mouse Smailwolf RS7, e corrigi fones Bluetooth.
+- **[Queijo Mineiro](https://github.com/towiice/queijo-mineiro)**: a Minecraft (Fabric) mod about making queijo minas, a traditional Brazilian cheese, and pão de queijo (cheese bread).
+- **[Wireless Battery](https://github.com/towiice/Wireless-Device-Battery-Monitor)**: my fork of [krisgfx9's project](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor), which shows the battery level of wireless devices on the Windows taskbar. In the fork, I added support for qmk.top-family 2.4 GHz dongles and the Smailwolf RS7 mouse, and fixed Bluetooth earbuds.
